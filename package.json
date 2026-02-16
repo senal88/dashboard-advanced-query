@@ -30,9 +30,9 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.6",
     "typescript": "^5.2.2",
-    "vite": "^5.0.8",
-    "vitest": "^0.34.6",
-    "@vitest/ui": "^0.34.6",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18",
+    "@vitest/ui": "^4.0.18",
     "@testing-library/react": "^14.1.2",
     "@testing-library/jest-dom": "^6.1.5"
   }
